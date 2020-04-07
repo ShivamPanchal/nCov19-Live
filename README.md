@@ -1,0 +1,2 @@
+# nCov19-Live
+CODE OF CONDUCT
